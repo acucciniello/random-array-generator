@@ -1,8 +1,5 @@
 //randGen.cpp
-#include <iostream>
-#include <stdlib.h>
-
-int randomGen(int n, int * arrayPointer);
+#include "randGen.h"
 
 int main()
 {
